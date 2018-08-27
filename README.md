@@ -10,3 +10,6 @@
 
 # greet service (greetpb)
 - code generation test
+
+# gRPC Unary API
+- most common usecase
