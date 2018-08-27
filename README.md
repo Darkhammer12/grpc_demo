@@ -15,4 +15,6 @@
 - most common usecase
 - Calculator pb
 
-# 
+# Client streaming
+
+# Bi-directional streaming
