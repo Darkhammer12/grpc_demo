@@ -8,6 +8,13 @@
 - gRPC is API oriented instead of Resource Oriented like REST
 - processes in binary vs JSON will always be smaller and less intensive in byte processing
 
+# Content
+
+- Greeting Service
+- Calculator Service
+- Unary, Server Streaming, Client Streaming, BiDi Streaming
+- Error Handling, Deadlines, SSL Encryption
+
 # greet service (greetpb)
 - code generation test
 
@@ -20,4 +27,4 @@
 # Bi-directional streaming
 
 # SSL
-- added SSl functions Multi language. 
+- added SSl functions Multi language.
