@@ -8,4 +8,5 @@
 - gRPC is API oriented instead of Resource Oriented like REST
 - processes in binary vs JSON will always be smaller and less intensive in byte processing
 
-# greet service
+# greet service (greetpb)
+- code generation test
